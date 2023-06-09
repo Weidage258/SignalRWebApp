@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "W8u7QOgVkD02ik0DRk/azcmRRtz8nCfKyIuPX8hUUSN601yutpASKHdyiCDT5rFZVy5Co4CYmCAXJJwaopzrCA==",
+  "dgSpecHash": "GZVUG5mTuYayZYvxrLBdmd6wIj7uR0DfZ5ixXAQOfS7WfljMcb7UGhlYM8hJXnoCOMj0edgPecPX1UOMQhzuRg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Wei\\Desktop\\新建文件夹 (2)\\signalappweb\\signalr-web-app\\SignalRWebApp\\SignalRWebApp\\SignalRWebApp.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "C:\\Users\\Wei\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
     "C:\\Users\\Wei\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Wei\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Wei\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
     "C:\\Users\\Wei\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Wei\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Wei\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",

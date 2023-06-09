@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "223251fd-8c36-4275-8b70-90cd53b93af1": {
+      "ProjectGuid": "223251fd-8c36-4275-8b70-90cd53b93af1",
+      "DisplayName": "SignalRWebApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
