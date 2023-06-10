@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "h5Bk7C7dN3tOh5XC0ozfBTR4pMcf4jYWdlwn6hM/aVcCGTWVYM+ikmt9hlzLp1I+5tXy65TmN6tf7E1bZU2C+A==",
+  "dgSpecHash": "F9xOSR1aTwbFoI4xbASgOyKgnIXg6YecyE7FhGS5V/Qsa6PHQof+EkWqqJAtJSIIl0/F3E75T7n+84+9cC4sbA==",
   "success": true,
   "projectFilePath": "C:\\Users\\WEI\\Desktop\\111\\signalr-web-app\\SignalRWebApp\\SignalRWebApp\\SignalRWebApp.csproj",
   "expectedPackageFiles": [
@@ -22,7 +22,7 @@
     "C:\\Users\\WEI\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
     "C:\\Users\\WEI\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\WEI\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "C:\\Users\\WEI\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
+    "C:\\Users\\WEI\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512",
     "C:\\Users\\WEI\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\WEI\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\WEI\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",

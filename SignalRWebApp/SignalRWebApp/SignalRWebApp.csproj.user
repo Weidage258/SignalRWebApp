@@ -4,6 +4,7 @@
     <View_SelectedScaffolderID>RazorViewEmptyScaffolder</View_SelectedScaffolderID>
     <View_SelectedScaffolderCategoryPath>root/Common/MVC/View</View_SelectedScaffolderCategoryPath>
     <ActiveDebugProfile>SignalRWebApp</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\WEI\Desktop\111\signalr-web-app\SignalRWebApp\SignalRWebApp\Properties\PublishProfiles\registry.hub.docker.com_qjw2582001%40163,com.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>

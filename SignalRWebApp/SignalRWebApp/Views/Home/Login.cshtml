@@ -1,36 +1,83 @@
 ﻿<div id="login">
     <form action="/Home/Submit">
         <table>
-            <tr>
-                <td>用户名：</td>
-                <td><input placeholder="请输入用户名" name="name" /></td>
-            </tr>
-            <tr>
-                <td>密码：</td>
-                <td><input placeholder="请输入密码" name="password" type="password" /></td>
-            </tr>
-            <tr>
-                <td colspan="2">
-                    <div class="operation">
-                        <button id="submit" type="submit">登录</button>
-                        <button id="cancel">取消</button>
+
+            <div class="login-box">
+                <h2>登录</h2>
+                <form action="/Home/Submit">
+                    <div class="user-box">
+                        <label for="username">用户名:</label>
+                        <input type="text" id="name" name="name">
                     </div>
-                </td>
-            </tr>
+                    <div class="user-box">
+                        <label for="password">密码:</label>
+                        <input type="password" id="password" name="password">
+                    </div>
+
+                </form>
+                <button type="submit" id="submit">登录</button>
+            </div>
+
         </table>
     </form>
 </div>
 <style>
-    table {
-        margin: 200px auto;
-        border-collapse: separate;
-        border-spacing: 10px;
+
+
+    body {
+        background-color: #f1f1f1;
     }
-    .operation{
-        display:flex;
-        justify-content:space-evenly;
+
+    .login-box {
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+        margin: 0px auto;
+        padding: 20px;
+        text-align: center;
+        width: 350px;
     }
-    button{
-        width:80px;
+
+        .login-box h2 {
+            margin: 0 0 20px;
+        }
+
+    .user-box {
+        margin-bottom: 20px;
+        text-align: left;
+    }
+
+        .user-box label {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .user-box input {
+            border: none;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+            padding: 10px;
+            width: 100%;
+        }
+
+    button {
+        background-color: #4CAF50;
+        border: none;
+        border-radius: 5px;
+        color: #fff;
+        cursor: pointer;
+        padding: 10px;
+        width: 100%;
+    }
+
+
+        button:hover {
+            background-color: #3e8e41;
+        }
+
+    .error {
+        color: red;
+        font-size: 12px;
+        margin-top: 5px;
     }
 </style>

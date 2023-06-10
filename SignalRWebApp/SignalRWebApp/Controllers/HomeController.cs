@@ -63,9 +63,13 @@ namespace SignalRWebApp.Controllers
         }
         public IActionResult Privacy()
         {
+
             return View();
         }
-
+        public IActionResult Error()
+        {
+            return View();
+        }
         public JsonResult GetMessages(int pageIndex, int pageSize)
         {
             return Json(_user.GetMessages(pageIndex, pageSize));

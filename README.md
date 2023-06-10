@@ -16,7 +16,7 @@ ASP.NET Core SignalR 是一个开放源代码库，可用于简化向应用添�
 
 ## **创建 SignalR 中心**
 
-```c#
+```
  /// <summary>
     /// 创建SignalR中心
     /// </summary>
@@ -56,7 +56,7 @@ ASP.NET Core SignalR 是一个开放源代码库，可用于简化向应用添�
 
 将以下突出显示的代码添加到 Program.cs 文件。
 
-```c#
+```
 builder.Services.AddSignalR();
 
 app.MapHub<ChatHub>("/chatHub");
@@ -64,7 +64,7 @@ app.MapHub<ChatHub>("/chatHub");
 
 ## **添加 SignalR 客户端代码**
 
-```js
+```
 js中连接服务
 
 
@@ -111,6 +111,3 @@ $("#findMessage").click(function () {
     })
 });
 ```
-
-
-

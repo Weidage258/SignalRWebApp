@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\WEI\Desktop\111\signalr-web-app\SignalRWebApp\SignalRWebApp
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/WEI/Desktop/111/signalr-web-app/SignalRWebApp/SignalRWebApp/Views/Home/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/WEI/Desktop/111/signalr-web-app/SignalRWebApp/SignalRWebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
