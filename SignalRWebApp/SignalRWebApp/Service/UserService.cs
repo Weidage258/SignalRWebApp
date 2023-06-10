@@ -35,18 +35,15 @@ namespace SignalRWebApp.Service
             UserInfo userInfo = _db.Queryable<UserInfo>().First(x => x.Name == name);
             if (userInfo == null)
             {
-                UserInfo newInfo = new UserInfo()
-                {
-                    Id = Guid.NewGuid().ToString(),
-                    Name = name,
-                    Password = password
-                };
-                return _db.Insertable(newInfo).ExecuteReturnEntity();
+                userInfo = new UserInfo();
+
+
             }
             else if (userInfo.Password != password)
             {
                 return new UserInfo();
             }
+
             return userInfo;
         }
 
